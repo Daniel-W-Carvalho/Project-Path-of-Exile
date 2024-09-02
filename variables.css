@@ -1,0 +1,15 @@
+:root {
+    --paragrafo: rgb(226, 136, 33);
+    --background-nav: rgb(5, 13, 26);
+    --background-total: rgb(0, 0, 0);
+    --background-sec-secction: rgb(13, 37, 37);
+    --efeito-border: rgb(187, 14, 14);
+    --status-ruim: rgb(255, 0, 0);
+    --status-razoavel: rgb(229, 233, 28);
+    --status-bom: rgb(123, 184, 136);
+    --status-excelente: rgb(21, 255, 0);
+    --raro: rgb(255, 217, 0);
+    --unico: rgb(255, 102, 0);
+    --magico: rgb(0, 81, 255);
+    --implicit: rgb(135, 95, 226);
+}
